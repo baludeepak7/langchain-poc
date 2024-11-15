@@ -1,0 +1,7 @@
+langchain
+nbconvert
+chainlit
+langchain-community
+langchain-ollama
+fastapi
+pymilvus
