@@ -1,0 +1,11 @@
+langchain
+nbconvert
+chainlit
+langchain-community
+langchain-ollama
+langchain-openai
+langchain-deepseek
+uvicorn
+pydantic
+fastapi
+langgraph
